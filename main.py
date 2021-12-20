@@ -94,5 +94,5 @@ elif dewx=='2':
 		print(f'\n[!] Login Error >>{email}')
     
 #Telegram : @DewTools
-#Dev : @LordAbdulla
+#Instagram : @hr8k
 #Github : github.com/LordAbdulla
