@@ -8,7 +8,7 @@ print('''
  | |__| |  __/\ V  V / 
  |_____/ \___| \_/\_/  
  
-    Tele : @DewTools | @LordAbdulla 
+    Insta : @hr8k  
     
     [1] Instagram Session ID 
     [2] TikTok Session ID ''')
@@ -93,6 +93,5 @@ elif dewx=='2':
 	else:
 		print(f'\n[!] Login Error >>{email}')
     
-#Telegram : @DewTools
 #Instagram : @hr8k
 #Github : github.com/LordAbdulla
