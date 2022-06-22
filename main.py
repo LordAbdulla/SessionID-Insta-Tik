@@ -54,7 +54,7 @@ if dewx == '1':
 	        file.write(f'{get_sessions}')
 	        file.close()
 	        print(f"[$] Saved as {username}.txt")
-	        exit(' Telegram @DewTools')
+	        exit(' Insta @hr8k')
 	        
 	
   elif "checkpoint_challenge_required" in req_login.text:
@@ -62,7 +62,7 @@ if dewx == '1':
 	#____________________________
   else:
 	  print(f'\n\n[!] Login Error >> {username}') 
-	  exit(' Telegram @DewTools')
+	  exit(' Insta @hr8k')
 	   
 elif dewx=='2':
 	email = input(' Enter Your TikTok Email : ')
@@ -88,7 +88,7 @@ elif dewx=='2':
 			file.write(f'{dady}')
 			file.close()
 			print(f"[$] Saved as {email}.txt")
-			exit(' Telegram @DewTools ')
+			exit(' Insta @hr8k ')
 			
 	else:
 		print(f'\n[!] Login Error >>{email}')
